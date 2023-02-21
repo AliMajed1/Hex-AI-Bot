@@ -12,17 +12,10 @@ Pygame</br>
 You can install these packages using pip, the Python package manager. Once you have installed Python and the required packages, you can download the project repository from Github and run the "hex.py" file to start playing against the bot.
 
 ## Usage
-To start a game against the Hex AI Bot, simply run the "hex.py" file using Python, and follow the instructions provided by the interface. You can choose to play as either the "X" or "O" player, and the bot will make its moves using its Dijkstra-minimax algorithm.
+To start a game against the Hex AI Bot, simply run the "hex.py" file using Python, and follow the instructions provided by the interface. You can choose to play as either the "R" or "B" player, and the bot will make its moves using its Dijkstra-minimax algorithm.
 
 During the game, the interface will display the current state of the board, along with any messages or prompts that are relevant to the current turn. You can use the mouse to select the hex you want to play on, and the bot will respond with its own move.
 
-## Contributing
-If you are interested in contributing to the Hex AI Bot project, feel free to fork the repository and submit a pull request with your changes. We welcome contributions of all kinds, including bug fixes, feature additions, and documentation improvements.
-
-Please make sure to follow our code of conduct and contributing guidelines, which can be found in the repository's "CONTRIBUTING.md" file.
-
-## License
-The Hex AI Bot project is licensed under the MIT License, which means that you are free to use, modify, and distribute the code as you see fit, as long as you include the original license and copyright notice.
 
 ## Acknowledgements
-This project was inspired by the Hex game, as well as by the many AI algorithms and techniques that have been developed for playing games like chess, Go, and poker. We would like to thank the open source community for providing so many useful tools and libraries that make it possible to build projects like this one.
+This bot was developed during my 3rd year as an Artificial Intelligence student at the University of Manchester, it was submitted as an assessed coursework for the COMP34111 course unit.
